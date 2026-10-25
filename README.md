@@ -152,8 +152,8 @@ Neuroband went through **five prototype iterations**. The most important change 
 
 | Name | Role |
 |---|---|
-| Vir Chanda | Circuit design, C++ coding, bill of materials, assembly, presentation |
-| Kian M. | Coding |
+| Vir Chanda | Circuit design, C++ coding, BOM, presentation |
+| Kian M. | Coding, Assembly |
 | Twisha G. | Soldering |
 
 <div align="center">
